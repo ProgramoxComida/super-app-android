@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Super App</string>
+    <string name="bbva">BBVA</string>
+    <string name="welcome1">Te damos la bienvenida a tu nueva SuperApp BBVA</string>
+    <string name="welcome2">Puedes consultar tu saldos y movimientos</string>
+    <string name="welcome3">Hacer y recibir transferencias desde cualquier parte del mundo</string>
+    <string name="welcome4">Retiros de efectivo sin tarjeta</string>
+    <string name="welcome5">Pagar cualquier tipo de servicio</string>
+    <string name="welcome6">Auto-ahorro</string>
+    <string name="welcome7">Conecta tu proyecto de emprendimiento y hazlo crecer</string>
+    <string name="login">Entrar</string>
+    <string name="wanna_join">¡Quiero ser cliente!</string>
+</resources>
