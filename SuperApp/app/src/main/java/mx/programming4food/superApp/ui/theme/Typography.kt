@@ -1,6 +1,7 @@
 package mx.programming4food.superApp.ui.theme
 
 import androidx.compose.material.Typography
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.text.font.Font
 import androidx.compose.ui.text.font.FontFamily
@@ -28,17 +29,59 @@ val superAppTypography = Typography(
     h1 = TextStyle(
         fontFamily = openSans,
         fontWeight = FontWeight.Normal,
-        fontSize = 40.sp
+        fontSize = 40.sp,
+        color = White
     ),
     body1 = TextStyle(
         fontFamily = openSans,
         fontWeight = FontWeight.Normal,
-        fontSize = 15.sp
+        fontSize = 15.sp,
+        color = White
     ),
     body2 = TextStyle(
-    fontFamily = openSans,
-    fontWeight = FontWeight.Bold,
-    fontSize = 15.sp
+        fontFamily = openSans,
+        fontWeight = FontWeight.Bold,
+        fontSize = 15.sp,
+        color = White
+    )
 )
 
+val font1 = TextStyle(
+    fontFamily = openSans,
+    fontWeight = FontWeight.SemiBold,
+    fontSize = 16.sp,
+    lineHeight = 28.sp,
+    color = Color.White
+)
+
+val font2 = TextStyle(
+    fontFamily = openSans,
+    fontWeight = FontWeight.Normal,
+    fontSize = 14.sp,
+    lineHeight = 20.sp,
+    color = Color.White
+)
+
+val font3 = TextStyle(
+    fontFamily = openSans,
+    fontWeight = FontWeight.Normal,
+    fontSize = 16.sp,
+    lineHeight = 20.sp,
+    color = Color.White
+)
+
+val font4 = TextStyle(
+    fontFamily = openSans,
+    fontWeight = FontWeight.Bold,
+    fontSize = 18.sp,
+    lineHeight = 20.sp,
+    color = Color.White
+)
+
+val font5 = TextStyle(
+    fontFamily = openSans,
+    fontWeight = FontWeight.Medium,
+    fontSize = 14.sp,
+    lineHeight = 20.sp,
+    color = Color.White
 )

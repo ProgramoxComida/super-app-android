@@ -10,4 +10,31 @@
     <string name="welcome7">Conecta tu proyecto de emprendimiento y hazlo crecer</string>
     <string name="login">Entrar</string>
     <string name="wanna_join">¡Quiero ser cliente!</string>
+    <string name="i_am_new_client">Soy nuevo cliente</string>
+    <string name="open_an_account1">Estrena una cuenta en minutos</string>
+    <string name="open_an_account2">¡Sin costo, sin comisiones y sin ir a sucursal!</string>
+    <string name="open_an_account3">Disponible solo para clientes nuevos con nacionalidad mexicana</string>
+    <string name="open_an_account4">Consulta el </string>
+    <string name="open_an_account5">Aviso de Privacidad</string>
+    <string name="libreton_basic_card_title">Cuenta digital Libretón Básica</string>
+    <string name="libreton_basic_card1">Esta es la forma más segura y fácil de abrir una cuenta BBVA. Solo ten a la mano tu INE.</string>
+    <string name="know_more">Saber más</string>
+    <string name="open_account">Abrir cuenta</string>
+    <string name="libreton_pyme_card_title">Cuenta digital Libretón Pyme</string>
+    <string name="libreton_pyme_card1">"Expande tu negocio con la nueva cuenta dirigida a emprendedores y freelancers donde puedes tener un mejor control sobre tu negocio. Solo ten a la mano "</string>
+    <string name="continue_as_guest">Entra como Invitado</string>
+    <string name="onboarding_1_1">Te damos la bienvenida a tu nueva SuperApp BBVA</string>
+    <string name="no_client">No soy cliente</string>
+    <string name="create_account_in_minutes">Estrena una cuenta \n en minutos</string>
+    <string name="no_cost">¡Sin costo, sin comisiones y sin ir a sucursal!</string>
+    <string name="libreton_basic_account">Cuenta Digital Libretón Básica</string>
+    <string name="libreton_basic_account_text">Esta es la forma más segura y fáscil de abrir una cuenta BBVA. Solo ten a la mano tu INE</string>
+    <string name="libreton_pyme_account">Cuenta Digital MiPyme</string>
+    <string name="libreton_pyme_account_text">"Expande tu negocio con la nueva cuenta dirigida a emprendedores y freelancers donde puedes tener un meor control sobre tus ganancias. "</string>
+    <string name="guest_text">Aquí puedes pagar cualquier tipo de servicios y más.</string>
+    <string name="go_on">Continuar</string>
+    <string name="welcome">¡Bienvenido!</string>
+    <string name="pay_services">Pagar\nservicios</string>
+    <string name="more_services">Recargas\ny más</string>
+    <string name="add_card">Agrega una tarjeta para poder recargar  o pagar servicios</string>
 </resources>
